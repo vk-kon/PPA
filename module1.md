@@ -3,127 +3,127 @@
 ---
 
 ## 🟦 Introduction to Programming
-- **[Introduction to Programming Notes](Module 1/Notes/Introduction to Programming Notes.md)**
+- **[Introduction to Programming Notes](Module%201/Notes/Introduction%20to%20Programming%20Notes.md)**
 - **No Assignment**
 
 ## 🟦 Data Types
-- **[Data Types Notes](Module 1/Notes/Data Types Notes.md)**
+- **[Data Types Notes](Module%201/Notes/Data%20Types%20Notes.md)**
 - **No Assignment**
 
 ## 🟦 Input/Output
-- **[Input/Output Notes](Module 1/Notes/Input Output Notes.md)**
+- **[Input/Output Notes](Module%201/Notes/Input%20Output%20Notes.md)**
 - **No Assignment**
 
 ---
 
 ## 🟦 Operators
-- **[Operators Notes](Module 1/Notes/Operators Notes.md)**
+- **[Operators Notes](Module%201/Notes/Operators%20Notes.md)**
 
 ### 📑 Assignment 1
-  - [Maximum Draws](Module 1/Maximum Draws.md)
-  - [Handshakes](Module 1/Handshakes.md)
-  - [Find Point](Module 1/Find Point.md)
-  - [Game with Cells](Module 1/Game with Cells.md) (Revise)
-  - [Min Height Triangle](Module 1/Min Height Triangle.md)
+  - [Maximum Draws](Module%201/Maximum%20Draws.md)
+  - [Handshakes](Module%201/Handshakes.md)
+  - [Find Point](Module%201/Find%20Point.md)
+  - [Game with Cells](Module%201/Game%20with%20Cells.md) (Revise)
+  - [Min Height Triangle](Module%201/Min%20Height%20Triangle.md)
 
 ---
 
 ## 🟦 Decision Making
-- **[Decision Making Notes](Module 1/Notes/Decision Making Notes.md)**
+- **[Decision Making Notes](Module%201/Notes/Decision%20Making%20Notes.md)**
 
 ### 📑 Assignment 1
-  - [Compare Triplets](Module 1/Compare Triplets.md)
-  - [Eye Colour](Module 1/Eye Colour.md)
-  - [Number of Games](Module 1/Number of Games.md)
-  - [Group Sum](Module 1/Group Sum.md)
-  - [ATM](Module 1/ATM.md)
+  - [Compare Triplets](Module%201/Compare%20Triplets.md)
+  - [Eye Colour](Module%201/Eye%20Colour.md)
+  - [Number of Games](Module%201/Number%20of%20Games.md)
+  - [Group Sum](Module%201/Group%20Sum.md)
+  - [ATM](Module%201/ATM.md)
 
 ---
 
 ## 🟦 Loops
-- **[Loops Notes](Module 1/Notes/Loops Notes.md)**
+- **[Loops Notes](Module%201/Notes/Loops%20Notes.md)**
 
 ### 📑 Assignment 1
-  - [Count Years](Module 1/Count Years.md)
-  - [Chef and Prime](Module 1/Chef and Prime.md)
-  - [Electricity Bill](Module 1/Electricity Bill.md)
-  - [Trapezium Loop](Module 1/Trapezium Loop.md)
-  - [AND plus OR](Module 1/AND plus OR.md)
-  - [Chef and Operations](Module 1/Chef and Operations.md)
-  - [Coin Game](Module 1/Coin Game.md)
-  - [Decrement or Increment](Module 1/Decrement or Increment.md)
-  - [Mutated Minions](Module 1/Mutated Minions.md)
-  - [Cooking Machine](Module 1/Cooking Machine.md)
-  - [Rock Paper Scissor](Module 1/Rock Paper Scissor.md)
-  - [Breaking Bricks](Module 1/Breaking Bricks.md)
-  - [Chef and Cook Off](Module 1/Chef and Cook Off.md)
-  - [Comparing Powers](Module 1/Comparing Powers.md)
-  - [Ada and School](Module 1/Ada and School.md)
-  - [Integer Division Problem](Module 1/Integer Division Problem.md)
-  - [Chef and Spider](Module 1/Chef and Spider.md)
-  - [Magician vs Chef](Module 1/Magician vs Chef.md)
-  - [Colour of Balloons](Module 1/Colour of Balloons.md)
-  - [Receipt](Module 1/Receipt.md)
-  - [Palindrome Integer](Module 1/Palindrome Integer.md)
-  - [King Movement](Module 1/King Movement.md)
+  - [Count Years](Module%201/Count%20Years.md)
+  - [Chef and Prime](Module%201/Chef%20and%20Prime.md)
+  - [Electricity Bill](Module%201/Electricity%20Bill.md)
+  - [Trapezium Loop](Module%201/Trapezium%20Loop.md)
+  - [AND plus OR](Module%201/AND%20plus%20OR.md)
+  - [Chef and Operations](Module%201/Chef%20and%20Operations.md)
+  - [Coin Game](Module%201/Coin%20Game.md)
+  - [Decrement or Increment](Module%201/Decrement%20or%20Increment.md)
+  - [Mutated Minions](Module%201/Mutated%20Minions.md)
+  - [Cooking Machine](Module%201/Cooking%20Machine.md)
+  - [Rock Paper Scissor](Module%201/Rock%20Paper%20Scissor.md)
+  - [Breaking Bricks](Module%201/Breaking%20Bricks.md)
+  - [Chef and Cook Off](Module%201/Chef%20and%20Cook%20Off.md)
+  - [Comparing Powers](Module%201/Comparing%20Powers.md)
+  - [Ada and School](Module%201/Ada%20and%20School.md)
+  - [Integer Division Problem](Module%201/Integer%20Division%20Problem.md)
+  - [Chef and Spider](Module%201/Chef%20and%20Spider.md)
+  - [Magician vs Chef](Module%201/Magician%20vs%20Chef.md)
+  - [Colour of Balloons](Module%201/Colour%20of%20Balloons.md)
+  - [Receipt](Module%201/Receipt.md)
+  - [Palindrome Integer](Module%201/Palindrome%20Integer.md)
+  - [King Movement](Module%201/King%20Movement.md)
 
 ---
 
 ## 🟦 Arrays
-- **[Arrays Notes](Module 1/Notes/Arrays Notes.md)**
+- **[Arrays Notes](Module%201/Notes/Arrays%20Notes.md)**
 
 ### 📑 Assignment 1  
-  - [Kitchen Timetable](Module 1/Kitchen Timetable.md)
-  - [Chef and Arrays](Module 1/Chef and Arrays.md)
-  - [Chef and Notebooks](Module 1/Chef and Notebooks.md)
-  - [Minimum Moves](Module 1/Minimum Moves.md)
-  - [Chef and Rainbow](Module 1/Chef and Rainbow.md)
-  - [Forgotten Language](Module 1/Forgotten Language.md)
-  - [Cops and Thief](Module 1/Cops and Thief.md)
+  - [Kitchen Timetable](Module%201/Kitchen%20Timetable.md)
+  - [Chef and Arrays](Module%201/Chef%20and%20Arrays.md)
+  - [Chef and Notebooks](Module%201/Chef%20and%20Notebooks.md)
+  - [Minimum Moves](Module%201/Minimum%20Moves.md)
+  - [Chef and Rainbow](Module%201/Chef%20and%20Rainbow.md)
+  - [Forgotten Language](Module%201/Forgotten%20Language.md)
+  - [Cops and Thief](Module%201/Cops%20and%20Thief.md)
 
 ---
 
 ## 🟦 Two-Dimensional Arrays 
-- **[Two-Dimensional Arrays Notes](Module 1/Notes/Two-Dimensional Arrays Notes.md)**
+- **[Two-Dimensional Arrays Notes](Module%201/Notes/Two-Dimensional%20Arrays%20Notes.md)**
 
 ### 📑 Assignment 1  
-  - [Matrix Multiplication](Module 1/Matrix Multiplication.md)
-  - [Matrix Diagonal Sum](Module 1/Matrix Diagonal Sum.md)
-  - [Transpose Matrix](Module 1/Transpose Matrix.md)
-  - [Matrix Addition](Module 1/Matrix Addition.md)
-  - [Upper Lower Sum](Module 1/Upper Lower Sum.md)
-  - [Search in Matrix](Module 1/Search in Matrix.md)
+  - [Matrix Multiplication](Module%201/Matrix%20Multiplication.md)
+  - [Matrix Diagonal Sum](Module%201/Matrix%20Diagonal%20Sum.md)
+  - [Transpose Matrix](Module%201/Transpose%20Matrix.md)
+  - [Matrix Addition](Module%201/Matrix%20Addition.md)
+  - [Upper Lower Sum](Module%201/Upper%20Lower%20Sum.md)
+  - [Search in Matrix](Module%201/Search%20in%20Matrix.md)
 
 ---
 
 ## 🟦 Strings 
-- **[Strings Notes](Module 1/Notes/Strings Notes.md)**
+- **[Strings Notes](Module%201/Notes/Strings%20Notes.md)**
 
 ### 📑 Assignment 1   
-  - [Cake and Precision](Module 1/Cake and Precision.md)
-  - [Round Decimals](Module 1/Round Decimals.md)
-  - [Print String](Module 1/Print String.md)
-  - [Sum of Rotated Strings](Module 1/Sum of Rotated Strings.md)
-  - [Four Digits](Module 1/Four Digits.md)
-  - [Make Palindrome](Module 1/Make Palindrome.md)
-  - [String Rotation](Module 1/String Rotation.md)
+  - [Cake and Precision](Module%201/Cake%20and%20Precision.md)
+  - [Round Decimals](Module%201/Round%20Decimals.md)
+  - [Print String](Module%201/Print%20String.md)
+  - [Sum of Rotated Strings](Module%201/Sum%20of%20Rotated%20Strings.md)
+  - [Four Digits](Module%201/Four%20Digits.md)
+  - [Make Palindrome](Module%201/Make%20Palindrome.md)
+  - [String Rotation](Module%201/String%20Rotation.md)
 
 ---
 
 ## 🟦 Pointers
-- **[Pointers Notes](Module 1/Notes/Pointers Notes.md)**
+- **[Pointers Notes](Module%201/Notes/Pointers%20Notes.md)**
 - **No Assignment**
 
 ## 🟦 Functions
-- **[Functions Notes](Module 1/Notes/Functions Notes.md)**
+- **[Functions Notes](Module%201/Notes/Functions%20Notes.md)**
 - **No Assignment**
 
 ## 🟦 Structures
-- **[Structures Notes](Module 1/Notes/Structures Notes.md)**
+- **[Structures Notes](Module%201/Notes/Structures%20Notes.md)**
 - **No Assignment**
 
 ## 🟦 Transitioning from C to C++
-- **[Transitioning from C to C++ Notes](Module 1/Notes/Transitioning from C to C++ Notes.md)**
+- **[Transitioning from C to C++ Notes](Module%201/Notes/Transitioning%20from%20C%20to%20C++%20Notes.md)**
 - **No Assignment**
 
 ---
