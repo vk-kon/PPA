@@ -8,7 +8,13 @@
 ### 📌 Assignment – 1
 - **Range Minimum Query (Sparse Table)**
 - **Range Minimum Query (Sqrt Decomposition)**
-- **Tries**
+
+---
+
+## 📚 Tries
+- **Tries Notes**: [Notes]
+
+### 📌 Assignment – 1
 - **Trie Implementation**
 - **Trie Deletion**
 - **Prefix Search**
@@ -18,6 +24,7 @@
 - **Replace Words**
 - **Phone Directory**
 - **Map Sum Pairs**
+
 
 ### 📌 Assignment – 2
 - **Maximum XOR in Array**
